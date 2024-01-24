@@ -50,7 +50,7 @@
 
 7. [1080x1080](https://mediaonena.github.io/holstonconnect/CTA-2-want-more-options/HTML%201080x1080/TriAd-1080x1080.html)
 
-**CTA-2-want-new-options**
+**CTA-3-want-new-options**
 1. [160x600](https://mediaonena.github.io/holstonconnect/CTA-3-want-new-options/HTML%20160x600/TriAd-CTA3-160x600.html)
 
 2. [250x250](https://mediaonena.github.io/holstonconnect/CTA-3-want-new-options/HTML%20250x250/TriAd-CTA3-250x250.html)
