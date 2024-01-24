@@ -1,6 +1,6 @@
-## New Animated Ads
----
-**quick access links by dementions**
+## Animated Ads
+
+**Quick access links by dementions**
 1. [160x600-v1](https://mediaonena.github.io/holstonconnect/Animated-Ads/160x600-v1/160x600-v1.html)
 2. [160x600-v2](https://mediaonena.github.io/holstonconnect/Animated-Ads/160x600-v2/160x600-v2.html)
 
@@ -15,6 +15,24 @@
 
 9.  [728x90-v1](https://mediaonena.github.io/holstonconnect/Animated-Ads/728x90-v1/728x90-v1.html)
 10. [728x90-v2](https://mediaonena.github.io/holstonconnect/Animated-Ads/728x90-v2/728x90-v2.html)
+---
+## New CTA
 
+**Quick access links by dementions divided by folder name**
 
+**CTA-1-learn-how**
+1. [160x600](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_160x600)
 
+2. [250x250](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_250x250)
+
+3. [250x250 with photo](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_250x250_with_photo)
+
+4. [300x600](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_300x600)
+
+5. [320x50](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_320x50)
+
+6. [728x90](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_728x90)
+
+7. [1080x1080](https://mediaonena.github.io/holstonconnect/CTA-1-learn-how/HTML_1080x1080)
+
+---
