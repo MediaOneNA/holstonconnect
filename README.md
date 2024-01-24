@@ -16,7 +16,7 @@
 9.  [728x90-v1](https://mediaonena.github.io/holstonconnect/Animated-Ads/728x90-v1/728x90-v1.html)
 10. [728x90-v2](https://mediaonena.github.io/holstonconnect/Animated-Ads/728x90-v2/728x90-v2.html)
 ---
-## New CTA
+## CTA 
 
 **Quick access links by dementions divided by folder name**
 
